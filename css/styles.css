@@ -625,6 +625,7 @@ footer .team-container-list-item-card-icons {
 .modal-close:hover .icon-close,
 .modal-close:focus .icon-close {
     fill: #fff;
+    border: none;
 }
 
 .modal-title {
